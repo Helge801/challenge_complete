@@ -1,0 +1,15 @@
+{
+  "name": "people_and_the_planets_they_inhabit",
+  "version": "0.1.0",
+  "description": "Starwars data api as requested by gosolo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Lund",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.17.0"
+  }
+}
